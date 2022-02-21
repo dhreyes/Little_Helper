@@ -8,5 +8,5 @@ Client Secret:
 YQc7hf2RwkJA10sD9w_8KnPWlXTfD0co
 
 ## Authors
-[Jose Pablo Bonilla](github.com/JosePabloBonilla)
-[David Harvey](github.com/dhreyes)
+[Jose Pablo Bonilla](https://github.com/JosePabloBonilla)<br />
+[David Harvey](https://github.com/dhreyes)
