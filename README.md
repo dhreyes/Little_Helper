@@ -6,3 +6,7 @@ Client ID:
 
 Client Secret:
 YQc7hf2RwkJA10sD9w_8KnPWlXTfD0co
+
+## Authors
+[Jose Pablo Bonilla](github.com/JosePabloBonilla)
+[David Harvey](github.com/dhreyes)
