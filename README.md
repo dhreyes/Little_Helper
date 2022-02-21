@@ -6,6 +6,3 @@ Client ID:
 
 Client Secret:
 YQc7hf2RwkJA10sD9w_8KnPWlXTfD0co
-
-Bot Token:
-OTQ1NDMyNDQ1MTUzNTgzMjE0.YhQElA.e3TtsC874fUAGn2taoe5EYKwhFg
