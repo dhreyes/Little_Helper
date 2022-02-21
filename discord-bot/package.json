@@ -1,0 +1,27 @@
+{
+  "name": "little_helper",
+  "version": "1.0.0",
+  "description": "Little helping bot to assist Holberton admin, he's cute and friendly :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhreyes/Little_Helper.git"
+  },
+  "keywords": [
+    "holberton",
+    "portfolio",
+    "little_helper"
+  ],
+  "author": "\"David \\ <2590@holbertonschool.com\\> (https://www.github.com/dhreyes)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhreyes/Little_Helper/issues"
+  },
+  "homepage": "https://github.com/dhreyes/Little_Helper#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
